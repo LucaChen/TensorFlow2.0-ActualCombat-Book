@@ -1,0 +1,21 @@
+# Summary
+
+* [课程介绍](README.md)
+* [什么是机器学习](README.md)
+* [Fashion-MNIST 机器学习入门](ch01/README.md)
+    * [收集数据](installation/nodejs-install.md)
+    * [数据准备](installation/gitbook-install.md)
+    * [选择一个模型](installation/gitbook-cli.md)
+    * [训练](installation/gitbook-cli.md)
+    * [训练](installation/gitbook-cli.md)
+* [图书项目结构](book/README.md)
+    * [README.md 与 SUMMARY编写](book/file.md)
+    * [目录初始化](book/prjinit.md)
+* [图书输出](output/README.md)
+    * [输出为静态网站](output/static.md)
+    * [输出PDF](output/pdfandebook.md)
+* [发布](publish/README.md)
+    * [发布到Github Pages](publish/gitpages.md)
+    * [发布到公司文档服务器](publish/companyserver.md)
+* [结束](end/README.md)
+
